@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McPcengineer
-- 👀 I’m interested in learning programming languages, i love coding.
-- 🌱 I’m currently learning Python...
+- 👀 I’m interested in Machine Learning and software development.
+- 🌱 I’m currently looking for mastering in AI.
 - 💞️ I’m looking to collaborate on big tech companies all over the world.
 - 📫 How to reach me: mcaura2009@gmail.com.
 
